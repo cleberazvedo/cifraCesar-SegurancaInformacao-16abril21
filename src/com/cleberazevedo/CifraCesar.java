@@ -2,12 +2,11 @@ package com.cleberazevedo;
 
 import java.util.Scanner;
 
-public class CifraCesar<tentarDenovo> {
+public class CifraCesar{
 
     public static void main(String[] args) {
         Scanner t = new Scanner(System.in);
         Scanner v = new Scanner(System.in);
-        Scanner d = new Scanner(System.in);
 
         char ascii;
         char x, y;
